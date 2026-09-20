@@ -1,0 +1,9 @@
+.idea/
+*.pyc
+#*.pth
+test_results/
+logs/
+.DS_Store
+gpt2/
+checkpoints/
+data/

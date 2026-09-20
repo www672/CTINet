@@ -1,0 +1,3 @@
+test_CTINet_ETTh1_ftM_sl96_pl96_cycle24_mlp_seed2024  
+mse:0.3822627067565918, mae:0.40564972162246704
+
