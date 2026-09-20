@@ -6,7 +6,7 @@
 CTI-Net is a lightweight time series forecasting framework that explicitly models the interaction between cycle and trend components. By decomposing time series into cycle and trend representations and using cycle-based modulation to adaptively adjust trend information, CTI-Net captures the dependence between periodic fluctuations and evolving trend levels while maintaining low computational complexity. 
 
 <p align="center">
-<img src=".\Figures\FIGURE 1.png" width = "700" alt="" align=center />
+<img src=".\images\FIGURE 1.png" width = "700" alt="" align=center />
 <br><br>
 <b>FIGURE 1.</b> Overall architecture of the CTI-Net framework.
 </p>
@@ -42,7 +42,7 @@ If you find this repo useful, please cite our paper.
     title={CTI-Net: Cycle-Trend Interactions Network for Lightweight Time Series Forecasting},
     author={Letian Wang and Hu Liang and Yudong Zhang and Yuteng Xiao},
     year={2026},
-    url={https://arxiv.org/abs/2202.01381},
+    url = {https://github.com/www672/CTINet},
 }</pre>
 
 ## Acknowledgement
