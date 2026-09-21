@@ -35,16 +35,6 @@ pip install -r requirements.txt
 3. Train the model. We provide the experiment scripts of all benchmarks under the folder `./scripts`,
    e.g. `./scripts/ETTh1.sh`. You might have to change permissions on the script files by running`chmod u+x scripts/*`.
 
-## Citation
-
-If you find this repo useful, please cite our paper.
-<pre>@article{woo2026CTINet,
-    title={CTI-Net: Cycle-Trend Interactions Network for Lightweight Time Series Forecasting},
-    author={Letian Wang and Hu Liang and Yudong Zhang and Yuteng Xiao},
-    year={2026},
-    url = {https://github.com/www672/CTINet},
-}</pre>
-
 ## Acknowledgement
 
 We extend our heartfelt appreciation to the following GitHub repositories for providing valuable code bases and datasets:
