@@ -8,7 +8,6 @@ CTI-Net is a lightweight time series forecasting framework that explicitly model
 <p align="center">
 <img src=".\images\FIGURE 1.png" width = "700" alt="" align=center />
 <br><br>
-<b>FIGURE 1.</b> Overall architecture of the CTI-Net framework.
 </p>
 
 ## Environment Requirements
@@ -26,12 +25,12 @@ pip install -r requirements.txt
 * Pre-processed datasets can be downloaded from the following
   links, [Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/e1ccfff39ad541908bae/)
   or [Google Drive](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy?usp=sharing).
-* Place the downloaded datasets into the `dataset/` folder, e.g. `dataset/ETTh1.csv`.
+* Place the downloaded datasets into the `data/` folder, e.g. `data/ETTh1.csv`.
 
 ## Usage
 
 1. Install the required dependencies.
-2. Download data as above, and place them in the folder, `dataset/`.
+2. Download data as above, and place them in the folder, `data/`.
 3. Train the model. We provide the experiment scripts of all benchmarks under the folder `./scripts`,
    e.g. `./scripts/ETTh1.sh`. You might have to change permissions on the script files by running`chmod u+x scripts/*`.
 
